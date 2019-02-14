@@ -1,5 +1,5 @@
 # TaskList
-A simple Task list app to help understand the fundamentals of JavaScript, it adds a list, stores in in the browser and deletes them.  
+A simple Task list app to help understand the fundamentals of JavaScript, it adds a list, stores it in the browser and deletes them.  
 
 project requirements and dependancies 
 
